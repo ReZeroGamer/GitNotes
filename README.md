@@ -1,0 +1,5 @@
+- Image-to-Image Translation with Conditional Adversarial Networks.\[[Papers](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100115)\]
+- Frame Interpolation with Multi-Scale Deep Loss Functions and Generative Adversarial Networks.\[[Papers](https://arxiv.org/abs/1711.06045)\]
+- Deep Video Generation, Prediction and Completion of Human Action Sequences.\[[Papers](https://arxiv.org/abs/1711.08682)\]
+- A Temporally-Aware Interpolation Network for Video Frame Inpainting.\[[Papers](https://arxiv.org/abs/1803.07218)\]
+- Deep Video Frame Interpolation Using Cyclic Frame Generation.\[[Papers](https://doi.org/10.1609/aaai.v33i01.33018794)\]
